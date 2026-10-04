@@ -22,6 +22,9 @@
         "projectId": "dedfde12-b429-48da-8085-baa58ef95a70"
       }
     },
-    "owner": "mehedi786"
+    "owner": "mehedi786",
+    "ios": {
+      "bundleIdentifier": "com.mehedi.snapnote.hasan"
+    }
   }
 }
